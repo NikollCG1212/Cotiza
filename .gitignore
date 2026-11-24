@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.streamlit/secrets.toml
+
+# Base de datos local
+cotiza.db
+
+# Respaldo de Flask
+app.py
+static/
+templates/
